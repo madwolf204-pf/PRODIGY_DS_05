@@ -32,15 +32,15 @@ The analysis is conducted entirely within the Traffic_accident.ipynb Jupyter Not
 
 #### Key Exploratory Steps:
 
-- Data Loading and Cleaning: Initial inspection, handling of missing values, and conversion of data types (especially time and location fields).
+* Data Loading and Cleaning: Initial inspection, handling of missing values, and conversion of data types (especially time and location fields).
 
-- Geospatial Analysis: Visualizing accident density across the United States to identify major hotspots.
+* Geospatial Analysis: Visualizing accident density across the United States to identify major hotspots.
 
-- Temporal Analysis: Investigating how accident frequency varies with time of day (e.g., rush hour), day of the week, and year-over-year trends.
+* Temporal Analysis: Investigating how accident frequency varies with time of day (e.g., rush hour), day of the week, and year-over-year trends.
 
-- Weather Impact: Analyzing the relationship between severe weather conditions and accident occurrences.
+* Weather Impact: Analyzing the relationship between severe weather conditions and accident occurrences.
 
-- Severity Distribution: Examining the distribution of accident severity levels and determining common features associated with high-severity incidents.
+* Severity Distribution: Examining the distribution of accident severity levels and determining common features associated with high-severity incidents.
 
 
 ### Key Findings (Based on Notebook Snippet)
