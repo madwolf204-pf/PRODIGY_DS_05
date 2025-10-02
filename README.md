@@ -13,6 +13,13 @@ The primary goal of this analysis, detailed in the Traffic_accident.ipynb notebo
 
 The project utilizes the US Accidents Dataset. This dataset contains approximately 7.7 million accident records collected via various APIs that provide streaming traffic incident data from sources like US and state departments of transportation, law enforcement, and traffic sensors.
 
+## 📂 Dataset
+- **Source**: [US Accidents Dataset on Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)  
+- **Description**: This dataset provides a record of traffic accidents across the US, including attributes such as  
+  - Accident severity  
+  - Location (city, state, coordinates)  
+  - Weather and road conditions  
+  - Time of occurrence   
 
 ### Key Data Attributes Analyzed:
 
